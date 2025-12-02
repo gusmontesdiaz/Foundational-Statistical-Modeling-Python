@@ -24,7 +24,7 @@ The project demonstrates proficiency in several statistical tasks:
 3.  **Visualization:** Plotting the empirical data distribution against the theoretical probability density function (PDF) to assess fit.
 4.  **Probability Calculation:** Using `scipy.stats` methods to calculate specific probabilities or percentiles related to the Normal Distribution.
 
-## ✨ Value Proposition for the Analyst Role
+## ✨ Value Proposition
 
 * **Statistical Foundation:** Proven ability to implement and utilize foundational statistical principles (like the Normal Distribution) in code.
 * **Risk Modeling Readiness:** This skill is a prerequisite for more advanced models found in other repositories (e.g., VaR calculation and stochastic modeling).
